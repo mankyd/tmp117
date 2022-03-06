@@ -10,7 +10,7 @@ MODE_AVG_32 = 0b10
 MODE_AVG_64 = 0x11
 
 # Knonwn Addresses.
-I2C_ADDRESS = [0x48, 0x49, 0x4a, 0x4b]
+I2C_ADDRESSES = [0x48, 0x49, 0x4a, 0x4b]
 
 class Tmp117(object):
   """
